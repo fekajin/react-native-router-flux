@@ -42,6 +42,7 @@
     "@babel/plugin-proposal-optional-chaining": "7.0.0-beta.47",
     "@types/react": "16.4.12",
     "@types/react-native": "0.56.14",
+    "@react-native-community/masked-view": "^0.1.10",
     "babel-core": "^7.0.0-0",
     "babel-eslint": "9.0.0-beta.1",
     "babel-jest": "^25.1.0",
@@ -63,6 +64,8 @@
     "react-native-gesture-handler": "^1.4.1",
     "react-native-jest-mocks": "1.4.0",
     "react-native-reanimated": "^1.2.0",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-safe-area-view": "^1.1.1",
     "react-test-renderer": "16.4.1"
   },
   "peerDependencies": {
